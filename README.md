@@ -1,4 +1,4 @@
-- 📟 Hi, I'm elizabeth from Bedok South Sec, I'm Sec 3 this year.
+- 📟 Hi, I'm elizabeth, I'm Sec 3 this year.
 - 👀 My cca is Infocomm Club.
 - 🫶🏻 My hobbies are coding, sleeping, photography, traveling, reading and listening to music.
 - 💻 I'm interested in software and game development.
