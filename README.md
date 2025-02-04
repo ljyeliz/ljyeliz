@@ -1,9 +1,9 @@
-- 📟 Hi, I'm elizabeth, I'm Sec 3 this year.
-- 👀 My cca is Infocomm Club.
-- 🫶🏻 My hobbies are coding, sleeping, photography, reading and addicted to music.
+- 📟 Hi, I'm elizabeth :)
+- 👀 My cca was Infocomm Club in secondary school.
+- 🫶🏻 My interests are coding, sleeping, photography, reading and music.
 - 💻 I'm interested in software and game development.
-- 🌱 I'm currently learning Al in my school
-- 📫 How to reach me ... idk just dont ig
+- 🌱 I'm currently self-learning how to use Github
+- 📫 How to reach me ... idk
 
 <!---
 elizainthere/elizainthere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
