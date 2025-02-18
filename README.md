@@ -1,6 +1,6 @@
-- 📟 Hi, I'm elizabeth :)
+- 📟 Hi, I'm elizabeth
 - 👀 My cca was Infocomm Club in secondary school.
-- 🫶🏻 My interests are coding, sleeping, photography, reading and music.
+- 🫶🏻 My interests are programming, photography, reading and music.
 - 💻 I'm interested in software and game development.
 - 🌱 I'm currently self-learning how to use Github
 - 📫 How to reach me ... idk
