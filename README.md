@@ -9,34 +9,24 @@
 - 🌱 I'm currently self-learning how to use Github
 - 📫 How to reach me ... idk
 
-
 ## My Skills
 
 ### Languages
-
 - C#
 - Python
 - HTML/CSS
 
 ### Frameworks & Libraries
-
 - TensorFlow
-
+  
 ### Tools
-
 - Git & GitHub
 - VS Code
 - Jupyter Notebook
 
 ## GitHub Stats
-
 ![ljyeliz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljyeliz&show_icons=true&theme=radical)
-
-## Let's Connect!
-
-- [????](link)
-
-Thanks for visiting my profile! Have a great day! 😊
+ 
 
 
 <!---
