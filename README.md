@@ -1,4 +1,4 @@
-  # Hi there, I'm Elizabeth! 👋
+  # Hi there, I'm Elizabeth Lim! 👋
 
 🌟 Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here's a bit about me:
 ## About Me
