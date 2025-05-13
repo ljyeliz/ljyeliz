@@ -2,7 +2,7 @@
 
 🌟 Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here's a bit about me:
 ## About Me
-- 📟 Hello I'm elizabeth, turning 17 soon
+- 📟 Hello I'm elizabeth
 - 👀 My cca was Infocomm Club in secondary school.
 - 🫶🏻 My interests are programming, photography, reading and music.
 - 💻 I'm interested in software and game development.
