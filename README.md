@@ -6,7 +6,7 @@
 - 👀 My cca was Infocomm Club in secondary school.
 - 🫶🏻 My interests are programming, History and music.
 - 💻 I'm interested in software development.
-- 🌱 I'm currently self-learning how to use Github
+- 🌱 I'm currently self-learning Javascript
 - 📫 How to reach me ... idk
 - links: https://beacons.ai/elizaalim
 
