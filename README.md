@@ -4,11 +4,12 @@
 ## About Me
 - 📟 Hello I'm elizabeth
 - 👀 My cca was Infocomm Club in secondary school.
-- 🫶🏻 My interests are programming, History and music.
+- 🫶🏻 My interests are programming, designing and music.
 - 💻 I'm interested in software development.
-- 🌱 I'm currently self-learning Javascript
-- 📫 How to reach me ... idk
-- links: https://beacons.ai/elizaalim
+- 🌱 I'm currently preping for olvls.
+- 📫 How to reach me ... n o t a v a i l a b l e
+- links:
+  - my website: 
 
 ## My Technical Skills
 
