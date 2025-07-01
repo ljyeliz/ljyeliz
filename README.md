@@ -9,7 +9,7 @@
 - 🌱 I'm currently preping for olvls.
 - 📫 How to reach me ... n o t a v a i l a b l e
 - links:
-  - my website: 
+  **[My website](https://www.notion.so/elizabethlim/elizabeth-s-portfolio-2157489241e1809f9398d3d6dfe08498?source=copy_link)**
 
 ## My Technical Skills
 
