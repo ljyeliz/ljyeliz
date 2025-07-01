@@ -1,24 +1,23 @@
-  # Hi there, I'm Elizabeth Lim! 👋
+  # Hello there, I'm Elizabeth! 👋
 
 🌟 I'm passionate about technology, coding, and continuous learning. Here's a bit about me:
 ## About Me
 - 📟 Hello I'm elizabeth
 - 👀 My cca was Infocomm Club in secondary school.
 - 🫶🏻 My interests are programming, designing and music.
-- 💻 I'm interested in software development.
 - 🌱 I'm currently preping for olvls.
 - 📫 How to reach me ... n o t a v a i l a b l e
 - links:
   **[My website](https://www.notion.so/elizabethlim/elizabeth-s-portfolio-2157489241e1809f9398d3d6dfe08498?source=copy_link)**
 
 ## My Technical Skills
-
 ### Languages
 - C#
+- C
 - Python
 - HTML/CSS
 - Swift
-
+  
 ### Frameworks & Libraries
 - TensorFlow
 - Flask
@@ -31,6 +30,8 @@
 - VS Code
 - Jupyter Notebook
 - Kali Linux
+- Moqups
+- IFTTT
 - Google Colab
 
 
