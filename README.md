@@ -1,5 +1,3 @@
-<div style="font-family: sans-serif;">
-
 # Hello there, I'm Elizabeth! 👋
 
 🌟 I'm passionate about technology, coding, and continuous learning. Here's a bit about me:
