@@ -35,9 +35,6 @@
 - IFTTT
 - Google Colab
 
-## GitHub Stats
-![ljyeliz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljyeliz&show_icons=true&theme=radical)
-
 </div>
 
 <!---
