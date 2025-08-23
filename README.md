@@ -1,9 +1,8 @@
-# Hello there, I'm Elizabeth! 👋
+# Hello there, I'm Elizabeth! 📟
 
 🌟 I'm passionate about technology, coding, and continuous learning. Here's a bit about me:
 
-## About Me
-- 📟 Hello I'm elizabeth  
+## About Me  
 - 👀 My cca was Infocomm Club in secondary school.  
 - 🫶🏻 My interests are programming, designing and music.  
 - 🌱 I'm currently preping for olvls.  
