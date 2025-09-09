@@ -1,6 +1,6 @@
-# Hello there, I'm Elizabeth! 📟
+# Hello there! 
 
-🌟 I'm passionate about technology, coding, and continuous learning. Here's a bit about me:
+📟 I'm passionate about technology, coding, and continuous learning!
 
 ## About Me  
 - 👀 My cca was Infocomm Club in secondary school.  
