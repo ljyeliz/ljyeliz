@@ -1,8 +1,10 @@
 
-### About Me  
+### about me  
 - was part of Infocomm Club in secondary school.  
 - my interests are programming, designing, gaming and music.  
 - 🌱 I'm currently preping for olvls.
+
+*[my portfolio c:](https://elizabethlim.notion.site/elizabeth-s-portfolio-2157489241e1809f9398d3d6dfe08498?pvs=149)*
 
 ### stuff
 ->  languages
@@ -29,7 +31,6 @@
 - Google Colab
 
 ###  links
-**[My website](https://elizabethlim.notion.site/elizabeth-s-portfolio-2157489241e1809f9398d3d6dfe08498?pvs=149)**
 
 </div>
 
