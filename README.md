@@ -5,21 +5,21 @@
 - 🌱 I'm currently preping for olvls.
 
 ### stuff
-### languages
+->  languages
 - C#
 - C
 - Python
 - HTML/CSS
 - Swift
-
-### frameworks & libraries
+  
+->  frameworks & libraries
 - TensorFlow
 - Flask
 - NumPy
 - Pandas
 - Unity
 
-### tools
+->  tools
 - Git & GitHub
 - VS Code
 - Jupyter Notebook
@@ -28,7 +28,7 @@
 - IFTTT
 - Google Colab
 
-### links
+###  links
 **[My website](https://elizabethlim.notion.site/elizabeth-s-portfolio-2157489241e1809f9398d3d6dfe08498?pvs=149)**
 
 </div>
