@@ -1,31 +1,26 @@
-# Hello there! 
-
-📟 I'm passionate about technology, coding, and continuous learning!
 
 ## About Me  
-- 👀 My cca was Infocomm Club in secondary school.  
-- 🫶🏻 My interests are programming, designing and music.  
-- 🌱 I'm currently preping for olvls.  
-- 📫 How to reach me ... n o t a v a i l a b l e  
-- Links:  
-  **[My website](https://elizabethlim.notion.site/elizabeth-s-portfolio-2157489241e1809f9398d3d6dfe08498?pvs=149)**
+- was part of Infocomm Club in secondary school.  
+- my interests are programming, designing, gaming and music.  
+- 🌱 I'm currently preping for olvls.
 
-## My Technical Skills
-### Languages
+- 
+## stuff
+### languages
 - C#
 - C
 - Python
 - HTML/CSS
 - Swift
 
-### Frameworks & Libraries
+### frameworks & libraries
 - TensorFlow
 - Flask
 - NumPy
 - Pandas
 - Unity
 
-### Tools
+### tools
 - Git & GitHub
 - VS Code
 - Jupyter Notebook
@@ -33,6 +28,9 @@
 - Moqups
 - IFTTT
 - Google Colab
+
+### links
+**[My website](https://elizabethlim.notion.site/elizabeth-s-portfolio-2157489241e1809f9398d3d6dfe08498?pvs=149)**
 
 </div>
 
