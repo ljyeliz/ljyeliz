@@ -1,11 +1,10 @@
 
-## About Me  
+### About Me  
 - was part of Infocomm Club in secondary school.  
 - my interests are programming, designing, gaming and music.  
 - 🌱 I'm currently preping for olvls.
 
-- 
-## stuff
+### stuff
 ### languages
 - C#
 - C
