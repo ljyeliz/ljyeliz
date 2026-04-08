@@ -2,7 +2,7 @@
 ### about me  
 - was part of Infocomm Club in secondary school.  
 - my interests are programming, designing, gaming and music.  
-- 🌱 currently waiting...
+- 🌱 currently in ITE College East, studying IT Applications Development.
 *[my portfolio c:](https://elizabethlim.notion.site/elizabeth-s-portfolio-2157489241e1809f9398d3d6dfe08498?pvs=149)*
 
 ### stuff
